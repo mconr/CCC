@@ -15,6 +15,12 @@
     - Lecture, archivage et modification des anciens documents.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     - Gestion des utilisateurs, incluant les droits de lecture, d'archivage, de modification et de gestion des droits d'autres utilisateurs.<br><br>
 
+ <div align="center" >
+     
+![image](https://github.com/mconr/CCC/assets/55603967/7d8f2b52-4f1a-4de1-832c-8c4f216c103b)  
+ </div>
+
+
 <h3 > Captures d'écran :</h3> <br>
 <div align="center" >
   
